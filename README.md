@@ -1,7 +1,7 @@
 # Summer_Olympics_Analysis
-This repository contains dataset of summer olympics
-In this project Iam using the pandas libraries
-in this I'm analysing the following questions as given below:
+This repository contains dataset of summer olympics.
+In this project i'm using the pandas libraries.
+In this i'm analysing the following questions as given below:
   1. In how many cities Summer Olympics is held so far?
   2. Which sport is having most number of Gold Medals so far? (Top 5)
   3. Which sport is having most number of medals so far? (Top 5)
